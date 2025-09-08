@@ -2,9 +2,9 @@
 
 I'm a passionate **IoT Backend Engineer** with a knack for building scalable, efficient, and innovative solutions. My expertise lies in weaving together **AI**, **Edge Computing**, **Cloud Computing**, **Big Data**, **Analytics**, and **IoT Communication** to create seamless smart systems. I thrive on solving complex problems and crafting systems that make life smarter and more connected.
 
-🌟 **Currently working on**: Building robust backend modules for IoT device self-provisioning and user verification systems.  
+🌟 **Currently working on**: Building robust backend modules for IoT device self-provisioning.  
 🌍 **Based in**: India  
-📫 **Reach me**: [LinkedIn](https://www.linkedin.com/in/saurinchauhan/) | [Email](mailto:your.email@example.com)  
+📫 **Reach me**: [LinkedIn](https://www.linkedin.com/in/saurinchauhan/) | [Email](mailto:saurin.chauhan@gmail.com)  
 🌐 **Portfolio**: [saurinchauhan.web.app](https://saurinchauhan.web.app)
 
 ---
