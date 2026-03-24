@@ -1,0 +1,26 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; }
+      .name { fill: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 64px; font-weight: 700; letter-spacing: -1px; }
+      .desc { fill: #a8dadc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 16px; font-weight: 400; letter-spacing: 0.5px; }
+      .accent { stop-color: #1a6b8a; }
+      .accent2 { stop-color: #0d3b52; }
+      @media (prefers-color-scheme: light) {
+        .bg { fill: #f0f6ff; }
+        .name { fill: #0d1117; }
+        .desc { fill: #1d5a7a; }
+        .accent { stop-color: #a8dadc; }
+        .accent2 { stop-color: #caf0f8; }
+      }
+    </style>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" class="accent"/>
+      <stop offset="100%" class="accent2"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="220" rx="0" fill="url(#grad)"/>
+  <rect class="bg" width="900" height="220" rx="0" opacity="0.75"/>
+  <text class="name" x="50" y="118">Saurin Chauhan</text>
+  <text class="desc" x="52" y="152">IoT Backend Engineer • AI • Edge Computing • Cloud Architect</text>
+</svg>
