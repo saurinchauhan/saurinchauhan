@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=30,31,32&height=220&section=header&text=Saurin%20Chauhan&fontSize=72&fontColor=1a9fc0&animation=fadeIn&fontAlignY=40&desc=IoT%20Backend%20Engineer%20%E2%80%A2%20AI%20%E2%80%A2%20Edge%20Computing%20%E2%80%A2%20Cloud%20Architect&descAlignY=62&descSize=17&descColor=1a9fc0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=30,31,32&height=220&section=header&text=Saurin%20Chauhan&fontSize=72&fontColor=1a9fc0&animation=fadeIn&fontAlignY=40&desc=IoT%20%E2%80%A2%20AI%20%E2%80%A2%20Edge%20Computing%20%E2%80%A2%20Cloud%20Architect&descAlignY=62&descSize=17&descColor=1a9fc0" />
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+the+Internet+of+Everything+%F0%9F%8C%90;IoT+%2B+AI+%2B+Edge+%3D+Smarter+World+%E2%9A%A1;Self-Provisioning+Systems+Architect;Cloud-Native+%7C+Event-Driven+%7C+Async-First;Turning+Raw+Sensor+Data+into+Intelligence)](https://git.io/typing-svg)
